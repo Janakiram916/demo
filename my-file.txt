@@ -4,3 +4,10 @@ this is abasic file added to git.
 Added some text in the trunk branch
 
 Added to some text here.
+
+I am editing this file to check with rebasing stuff. Adding lines to first commit code.
+
+I am editing this file second time to play with rebase.
+
+I am ading one final line to play with code
+
