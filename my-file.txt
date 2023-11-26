@@ -10,4 +10,3 @@ I am editing this file to check with rebasing stuff. Adding lines to first commi
 I am editing this file second time to play with rebase.
 
 I am ading one final line to play with code
-
